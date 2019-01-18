@@ -60,6 +60,6 @@ public class Robot extends IterativeRobot
 	@Override
 	public void testPeriodic()
 	{
-		Test.douglas();
+		Test.move();
 	}
 }
